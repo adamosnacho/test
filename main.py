@@ -1,1 +1,2 @@
-text("Test Webpage found!")
+text("Test Webpage")
+image("image.png")
